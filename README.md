@@ -1,6 +1,8 @@
+## Hi there 👋
+
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/czariwnl/Projects](https://github.com/czariwnl/Projects)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/czariwnl/Projects)
 
 - 📫 Discord: **CZAR#0027**
 
