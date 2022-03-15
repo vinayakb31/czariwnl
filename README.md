@@ -1,3 +1,5 @@
+## Hello there 👋
+
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my [https://github.com/czariwnl/Projects](https://github.com/czariwnl/Projects)
