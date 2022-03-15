@@ -8,5 +8,5 @@
 
 #### PROFILES
 
-My [HackerRank Profile](https://www.hackerrank.com/czariwnl)
-My [LeetCode Profile](https://leetcode.com/czariwnl/)
+- My [HackerRank Profile](https://www.hackerrank.com/czariwnl)
+- My [LeetCode Profile](https://leetcode.com/czariwnl/)
