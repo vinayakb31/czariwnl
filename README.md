@@ -1,1 +1,2 @@
-
+- Highschool student
+- Currently learning Python
