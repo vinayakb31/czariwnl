@@ -1,2 +1,2 @@
-- Highschool student
-- Currently learning Python
+- Highschool student 🧑‍🎓
+- Currently learning Python 💻
