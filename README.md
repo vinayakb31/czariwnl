@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my [https://github.com/czariwnl/Projects](https://github.com/czariwnl/Projects)
+- 👨‍💻 All of my [Projects](https://github.com/czariwnl/Projects)
 
 - 📫 Discord: **CZAR#0027**
 
