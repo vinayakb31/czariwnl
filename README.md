@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my [Projects](https://github.com/czariwnl/Projects)
 
-- 📫 Discord: **CZAR#0027**
+- 📫 Discord: **CZAR#4315**
 
 <h3 align="left">My Profiles:</h3>
 <p align="left">
